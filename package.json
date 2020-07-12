@@ -1,0 +1,29 @@
+{
+  "name": "blog-crawlers",
+  "version": "1.0.0",
+  "description": "Get informations from web blog.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"blog crawlers"
+  ],
+  "author": {
+    "name": "Knissing",
+    "email": "vac872089248@gmail.com"
+  },
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
