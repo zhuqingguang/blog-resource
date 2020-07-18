@@ -1,6 +1,43 @@
 [
     [
         {
+            "url": "https://github.com/withspectrum/spectrum",
+            "name": "Spectrum",
+            "description": "开源的社区软件，形式非常新颖美观。"
+        },
+        {
+            "url": "https://github.com/bluzi/jsonstore",
+            "name": "jsonstore.io",
+            "description": "通过 HTTP Header 读写 JSON 数据的免费 datastore。"
+        },
+        {
+            "url": "https://github.com/mapbox/flamebearer",
+            "name": "flamebearer",
+            "description": "Node 应用的火焰图生成工具，用于性能分析。"
+        },
+        {
+            "url": "https://github.com/cleanbrowsing/dnsperftest",
+            "name": "DNS Performance Test",
+            "description": "DNS 响应时间的命令行比较脚本。"
+        },
+        {
+            "url": "https://github.com/lukechilds/merge-images",
+            "name": "merge-images",
+            "description": "多张图片合成一张图片的浏览器 JS 库，使用了 Canvas。"
+        },
+        {
+            "url": "https://github.com/tabler/tabler",
+            "name": "Tabler",
+            "description": "一个基于 Bootstrap4 的面板（dashboard）组件库。"
+        },
+        {
+            "url": "http://etherpad.org/",
+            "name": "Etherpad",
+            "description": "老牌的多人实时编辑协同工具。"
+        }
+    ],
+    [
+        {
             "url": "https://www.geany.org/",
             "name": "Geany",
             "description": "一个跨平台的轻量级 IDE 编辑器，支持50多种语言。"
