@@ -1,5 +1,5 @@
 <template>
-    <div class="list-wrap mx-1">
+    <div class="list-wrap mx-3">
         <div 
             v-for="(data, index) of list"
             :key="index"
@@ -10,7 +10,7 @@
                 <p>{{data.description}}</p>
             </div>
             <img 
-                class="img max-w-full rounded mb-3"
+                class="img rounded mb-3"
                 v-lazy="data.imgSrc" 
                 :alt="data.name" 
                 v-if="data.imgSrc"
@@ -37,5 +37,11 @@ export default {
 <style lang="less" scoped>
 .img {
     max-height: 300px;
+    max-width: 400px;
+}
+@media screen and (max-width: 768px) {
+    .img {
+        max-width: 100%;
+    }
 }
 </style>
