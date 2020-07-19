@@ -28,7 +28,7 @@ export default {
 </script>
 <style>
 .layout {
-  width: 880px;
+  max-width: 880px;
   margin: auto;
 }
 </style>

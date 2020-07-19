@@ -1,17 +1,17 @@
 <template>
-    <div class="list-wrap">
+    <div class="list-wrap mx-1">
         <div 
             v-for="(data, index) of list"
             :key="index"
-            class="flex border rounded-lg p-4 mb-5 justify-between"
+            class="sm:flex border rounded-lg p-4 mb-5 justify-between"
         >
             <div class="mr-5">
                 <p class="text-xl text-bold text-teal-500 mb-3"><a :href="data.url">{{data.name}}</a></p>
                 <p>{{data.description}}</p>
             </div>
             <img 
-                class="img max-w-md rounded mb-3"
-                :src="data.imgSrc" 
+                class="img max-w-full rounded mb-3"
+                v-lazy="data.imgSrc" 
                 :alt="data.name" 
                 v-if="data.imgSrc"
             >

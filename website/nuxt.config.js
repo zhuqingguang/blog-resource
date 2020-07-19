@@ -1,4 +1,5 @@
-const path = require('path') 
+const path = require('path')
+console.log(process.env.NODE_ENV);
 export default {
     target: 'static',
     // srcDir: 'website/',
@@ -16,11 +17,12 @@ export default {
         meta: [
             { charset: 'utf-8' },
             { name: 'keywords', content: 'IT, 程序员，编程，编程工具，免费课程，软件，学习资源' },
-            { name: 'description', content: '这是一个资源集合网址，收录了阮一峰老师的每周期刊中的工具，资源，课程和软件信息' }
+            { name: 'description', content: '这是一个资源集合网址，收录了阮一峰老师的每周期刊中的工具，资源，课程和软件信息' },
+            { name: 'viewport', content: 'width=device-width,initial-scale=1' }
         ],
         script: [
             {
-                innerHTML: `
+                innerHTML: process.env.NODE_ENV !== 'development' ? `
                     var _hmt = _hmt || [];
                     (function() {
                     var hm = document.createElement("script");
@@ -28,7 +30,7 @@ export default {
                     var s = document.getElementsByTagName("script")[0]; 
                     s.parentNode.insertBefore(hm, s);
                     })();
-                `,
+                ` : '',
                 type: 'text/javascript',
                 charset: 'utf-8'
             }
@@ -45,5 +47,8 @@ export default {
         preset: {
           stage: 1 // see https://tailwindcss.com/docs/using-with-preprocessors#future-css-featuress
         }
-    }
+    },
+    plugins: [
+        '~plugins/vue-lazyload',
+    ],
 }
