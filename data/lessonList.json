@@ -49,6 +49,54 @@
     ],
     [
         {
+            "url": "http://www.mlyearning.org/",
+            "name": "《Machine Learning Yearning》",
+            "imgSrc": "http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042302.png",
+            "description": "他的新书《Machine Learning Yearning》现在可以免费订阅。今后几个月里面，他每完成一个部分，你就会得到邮件通知，可以立即读到。根据说明，这本书大概100页左右，每章的长度很短，非常容易阅读。内容主要关于如何实现你自己的机器学习项目，重点不是算法，而是如何运用算法到真实项目。"
+        },
+        {
+            "url": "https://data.berkeley.edu/education/data-8x",
+            "name": "《Foundations of Data Science》",
+            "imgSrc": "http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042303.png",
+            "description": "\n第一部分：Python 数据处理\n第二部分：抽样推断\n第三部分：预测与机器学习\n"
+        },
+        {
+            "url": "https://github.com/openblockchains/programming-blockchains-step-by-step",
+            "name": "Programming Blockchains Step-by-Step",
+            "description": "介绍如何使用 Ruby 语言从零开始写一个区块链实现，代码非常好懂，并有各种基础概念的解释。"
+        },
+        {
+            "url": "http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/",
+            "name": "Low Level Bit Hacks You Absolutely Must Know",
+            "description": "位运算（bit operation）的用途，有很多例子。"
+        },
+        {
+            "url": "https://github.com/reactjs/react-basic",
+            "name": "React - Basic Theoretical Concepts",
+            "description": "React 官方关于 React 原始设计思想的解释。"
+        },
+        {
+            "url": "https://github.com/wojtekmaj/react-lifecycle-methods-diagram",
+            "name": "React v16.3 生命周期的示意图",
+            "imgSrc": "http://www.ruanyifeng.com/blogimg/asset/2018/bg2018042304.png"
+        },
+        {
+            "url": "https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md",
+            "name": "Google 面试自学手册",
+            "description": "一份爱好者整理的 Google 面试准备指南。"
+        },
+        {
+            "url": "https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel",
+            "name": "Chrome DevTools 的一些使用技巧"
+        },
+        {
+            "url": "http://jamie-wong.com/post/color/",
+            "name": "Color: From Hexcodes to Eyeballs",
+            "description": "人眼如何感受到色彩，读懂这篇文章需要一点物理学知识。"
+        }
+    ],
+    [
+        {
             "url": "https://jvns.ca/blog/so-you-want-to-be-a-wizard/",
             "name": "如何成为一个优秀工程师",
             "description": "作者谈了自己在 Stripe 公司担任 SRE （系统可靠性）工程师的经历。"

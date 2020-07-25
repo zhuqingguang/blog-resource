@@ -4,7 +4,7 @@
   "description": "Get informations from web blog.",
   "private": true,
   "scripts": {
-    "start": "node src/index.js",
+    "crawl": "node src/index.js",
     "dev": "nuxt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
