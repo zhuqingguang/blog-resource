@@ -1,76 +1,285 @@
 [
     [
         {
-            "url": "https://github.com/withspectrum/spectrum",
-            "name": "Spectrum",
-            "description": "开源的社区软件，形式非常新颖美观。"
+            "url": "https://wiby.org/",
+            "name": "wiby",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072312.jpg",
+            "description": "一个极简的搜索引擎，加载速度很快。"
         },
         {
-            "url": "https://github.com/bluzi/jsonstore",
-            "name": "jsonstore.io",
-            "description": "通过 HTTP Header 读写 JSON 数据的免费 datastore。"
+            "url": "https://github.com/luyuhuang/vscode-rss",
+            "name": "vscode-rss",
+            "description": "Visual Studio Code 的插件，提供一个嵌入式的 RSS 阅读器，可以在 VScode 里面阅读新闻和博客。（@luyuhuang 投稿）"
         },
         {
-            "url": "https://github.com/mapbox/flamebearer",
-            "name": "flamebearer",
-            "description": "Node 应用的火焰图生成工具，用于性能分析。"
+            "url": "https://react-spectrum.adobe.com/react-spectrum/index.html",
+            "name": "React Spectrum",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072402.jpg",
+            "description": "Adobe 公司的 React 组件库，用法非常简单干净。"
         },
         {
-            "url": "https://github.com/cleanbrowsing/dnsperftest",
-            "name": "DNS Performance Test",
-            "description": "DNS 响应时间的命令行比较脚本。"
+            "url": "https://github.com/propjockey/css-sweeper",
+            "name": "css-sweeper",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072403.jpg",
+            "description": "一个只用 HTML 和 CSS 实现的扫雷游戏，不使用 JavaScript。"
         },
         {
-            "url": "https://github.com/lukechilds/merge-images",
-            "name": "merge-images",
-            "description": "多张图片合成一张图片的浏览器 JS 库，使用了 Canvas。"
+            "url": "https://simpleops.io/",
+            "name": "SimpleOps",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072008.jpg",
+            "description": "网站性能监控服务，可以监控加载速度和网站是否下线。"
         },
         {
-            "url": "https://github.com/tabler/tabler",
-            "name": "Tabler",
-            "description": "一个基于 Bootstrap4 的面板（dashboard）组件库。"
+            "url": "https://github.com/JordanKnott/project-citadel",
+            "name": "project-citadel",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072101.jpg",
+            "description": "一个开源的看板程序，用于项目管理。"
         },
         {
-            "url": "http://etherpad.org/",
-            "name": "Etherpad",
-            "description": "老牌的多人实时编辑协同工具。"
+            "url": "https://github.com/dosyago/BrowserGap",
+            "name": "CloudBrowser",
+            "description": "开源的云浏览器。用户可以在浏览器里面，打开另一个运行在云端的浏览器。"
+        },
+        {
+            "url": "https://gitlab.com/kornelski/babel-preset-php",
+            "name": "babel-preset-php",
+            "description": "通过 Babel 将 PHP 代码转成 JavaScript 代码，从而方便 PHP 程序员编写浏览器可以运行的代码。"
+        },
+        {
+            "url": "https://github.com/KFlash/seafox",
+            "name": "seafox",
+            "description": "一个 TypeScript 写的 JavaScript 解析器，也就是说使用 JavaScript 解析 JavaScript，支持最新的 ES2020 语法。"
+        },
+        {
+            "url": "https://github.com/tannerlinsley/react-table",
+            "name": "react-table",
+            "description": "React 的表格组件库，新的 7.0 版完全采用 Hooks 设计。"
         }
     ],
     [
         {
-            "url": "https://github.com/withspectrum/spectrum",
-            "name": "Spectrum",
-            "description": "开源的社区软件，形式非常新颖美观。"
+            "url": "https://www.passbolt.com/",
+            "name": "Passbolt",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071501.jpg",
+            "description": "一个开源的密码管理器，可以自己架设 Web 服务。"
         },
         {
-            "url": "https://github.com/bluzi/jsonstore",
-            "name": "jsonstore.io",
-            "description": "通过 HTTP Header 读写 JSON 数据的免费 datastore。"
+            "url": "https://pasteme.cn/",
+            "name": "PasteMe.cn",
+            "description": "一个文本分享网站，不需要注册，会对输入的文本或代码生成 URL，支持密码和阅后即焚。（@lingr7 投稿）"
         },
         {
-            "url": "https://github.com/mapbox/flamebearer",
-            "name": "flamebearer",
-            "description": "Node 应用的火焰图生成工具，用于性能分析。"
+            "url": "https://shoelace.style/",
+            "name": "Shoelace",
+            "description": "我觉得，HTML 自定义元素才是网页组件发展的方向，因为根本不需要学习任何新的 API，用的就是 DOM 语法。"
         },
         {
-            "url": "https://github.com/cleanbrowsing/dnsperftest",
-            "name": "DNS Performance Test",
-            "description": "DNS 响应时间的命令行比较脚本。"
+            "url": "https://github.com/webtorrent/webtorrent-desktop",
+            "name": "webtorrent-desktop",
+            "description": "一个 BT 下载的跨平台桌面客户端，可以一边下载一边观看视频。它使用 WebTorrent 协议，所以实际上是一个网页应用，用 Electron 包装成桌面软件。"
         },
         {
-            "url": "https://github.com/lukechilds/merge-images",
-            "name": "merge-images",
-            "description": "多张图片合成一张图片的浏览器 JS 库，使用了 Canvas。"
+            "url": "https://github.com/fjc0k/tbify",
+            "name": "tbify",
+            "description": "国内连接 npm 源服务器很慢，tbify 这个工具可以自动将 npm、yarn 等包管理工具连上国内的淘宝镜像，对工具和系统都是非侵入性的。（@fjc0k 投稿）"
         },
         {
-            "url": "https://github.com/tabler/tabler",
-            "name": "Tabler",
-            "description": "一个基于 Bootstrap4 的面板（dashboard）组件库。"
+            "url": "https://github.com/hyj1991/easy-monitor",
+            "name": "easy-monitor",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072311.jpg",
+            "description": "Node.js 应用的性能监控工具，可以定位线上故障。代码开源，支持私有部署。（@yj1991 投稿）"
         },
         {
-            "url": "http://etherpad.org/",
-            "name": "Etherpad",
-            "description": "老牌的多人实时编辑协同工具。"
+            "url": "https://3d-book-css.netlify.app/",
+            "name": "3D 封面生成器",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072102.jpg",
+            "description": "在线工具，让一张平面图片变成 3D 书籍封面。"
+        },
+        {
+            "url": "https://wiki.js.org/",
+            "name": "Wiki.js",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072104.jpg",
+            "description": "架设个人 Wiki 的 Node.js 应用。"
+        },
+        {
+            "url": "http://oskarstalberg.com/game/house/index.html",
+            "name": "Brick Block",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072105.jpg",
+            "description": "一个浏览器小游戏，使用砖块随心所欲建造大楼，只支持桌面浏览器。"
+        },
+        {
+            "url": "https://github.com/umputun/remark42",
+            "name": "remark42",
+            "description": "开源的评论服务，可以用来为静态网页加上留言功能。"
+        }
+    ],
+    [
+        {
+            "url": "https://brython.info/",
+            "name": "Brython",
+            "description": "一个使用 Python 写网页脚本的库，让你直接用 Python 操作网页 DOM，不需要用到 JavaScript。"
+        },
+        {
+            "url": "https://www.jefftk.com/icdiff",
+            "name": "icdiff",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070606.jpg",
+            "description": "一个命令行的彩色 diff 工具。"
+        },
+        {
+            "url": "https://github.com/JaidedAI/EasyOCR",
+            "name": "EasyOCR",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070801.jpg",
+            "description": "一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字。"
+        },
+        {
+            "url": "https://oss.redislabs.com/redisearch/",
+            "name": "RediSearch",
+            "description": "以 Redis 作为后端的全文搜索引擎，支持中文。"
+        },
+        {
+            "url": "https://chowderman.github.io/xp-paint.html",
+            "name": "XP-Paint",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071005.jpg",
+            "description": "Windows 画板程序的浏览器实现。"
+        },
+        {
+            "url": "https://github.com/MonitorControl/MonitorControl",
+            "name": "MonitorControl",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071006.jpg",
+            "description": "Mac 电脑小工具，可以在系统菜单栏显示亮度、对比度、音量滑块。"
+        },
+        {
+            "url": "https://romefrontend.dev/",
+            "name": "Rome",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071202.jpg",
+            "description": "Babel 和 Yarn 作者推出的新工具，目标是将所有 JavaScript 开发工具集中在一个软件包里面，取代 ESLint、Babel、Webpack、Prettier 等。整个软件包没有任何依赖，即每一个功能都完全从零实现。"
+        },
+        {
+            "url": "https://wheremylife.cn/",
+            "name": "WhereMyLife",
+            "description": "一个 Kindle 订阅 RSS 的推送服务，所有功能完全免费。（@Bin-Huang 投稿）"
+        },
+        {
+            "url": "https://github.com/lryong/hugo-leetcode-dashboard",
+            "name": "hugo-leetcode-dashboard",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071702.jpg",
+            "description": "一个将个人的 LeetCode 答题记录汇总的工具，展示题号、题目、你的解答、 题目通过率等，然后一键生成一个 Hugo 网站。（@lryong 投稿）"
+        },
+        {
+            "url": "https://github.com/nashaofu/dingtalk",
+            "name": "钉钉的非官方 Linux 版",
+            "description": "钉钉官方没有提供 Linux 版，作者用 Electron 和钉钉网页版打包了一个。（@nashaofu 投稿）"
+        }
+    ],
+    [
+        {
+            "url": "https://github.com/B-Software/Ward",
+            "name": "ward",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070113.jpg",
+            "description": "一个简单的服务器监控的仪表盘，基于 Java。"
+        },
+        {
+            "url": "https://github.com/novalagung/httpsproxy2http",
+            "name": "httpsproxy2http",
+            "description": "一个开源的反向代理服务器，以 Docker 镜像形式发布，提供 HTTP 到 HTTPS 的反向代理服务，可以把不加密的 HTTP 网站代理成加密的 HTTPS 网站。"
+        },
+        {
+            "url": "https://github.com/Devs-Garden/jsonbase",
+            "name": "jsonbase",
+            "description": "一个 JavaScript 数据库，后端数据都存成 JSON 格式文件，可以用来学习怎么自己实现关系型数据库。"
+        },
+        {
+            "url": "https://github.com/alfiopuglisi/guietta",
+            "name": "guietta",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070302.jpg",
+            "description": "一个 Python 工具，用来生成简单的图形界面。"
+        },
+        {
+            "url": "https://getuikit.com/",
+            "name": "UIkit",
+            "description": "一个前端 Web 组件库，不依赖任何框架，组件类型多、功能强。"
+        },
+        {
+            "url": "https://www.zettlr.com/",
+            "name": "Zettlr",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070401.jpg",
+            "description": "一个桌面 Markdown 编辑器，界面美观。"
+        },
+        {
+            "url": "https://reabble.cn/",
+            "name": "Reabble",
+            "description": "Kindle 等电子书阅读器的 RSS 推送服务，绑定  Inoreader 帐号。（@weijarz 投稿）"
+        },
+        {
+            "url": "https://github.com/midwayjs/midway",
+            "name": "Midway Serverless",
+            "description": "阿里发布的 Node.js 的 Serverless 框架，帮助 Node.js 开发人员迁移到云端  Serverless 平台。（@czy88840616 投稿）"
+        },
+        {
+            "url": "https://github.com/augmentable-dev/gitqlite",
+            "name": "gitqlite",
+            "description": "使用 SQL 语法查询 Git 仓库的工具，比如SELECT * FROM commits。"
+        },
+        {
+            "url": "https://github.com/honkit/honkit",
+            "name": "honkit",
+            "description": "GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本。"
+        }
+    ],
+    [
+        {
+            "url": "https://bellard.org/tcc/",
+            "name": "Tiny C 编译器",
+            "description": "传奇程序员 Fabrice Bellard 写的一个 C 编译器，只有 100KB 大小，编译时间只有 GCC 的几分之一。"
+        },
+        {
+            "url": "http://www.easybui.com/",
+            "name": "BUI",
+            "description": "一个国产的 UI 交互框架, 用于快速定制开发 WebApp、微信公众号、小程序的 webview 适配，以及混合移动应用等。（@yangyongzhen 投稿）"
+        },
+        {
+            "url": "https://github.com/tholman/elevator.js",
+            "name": "elevator.js",
+            "description": "一个使得\"回到顶部\"的网页滚动，具有电梯效果的 JS 库。"
+        },
+        {
+            "url": "https://github.com/renzhezhilu/webp2jpg-online",
+            "name": "webp2jpg",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062810.jpg",
+            "description": "一个纯前端的在线图片格式转换工具，可以快速将图片转为另一种格式，并且提供多个参数可以调节。（@renzhezhilu 投稿）"
+        },
+        {
+            "url": "https://github.com/tauri-apps/tauri",
+            "name": "tauri",
+            "description": "一个类似 Electron 的跨平台桌面应用开发框架，但是基于各平台自带的 WebView，所以应用打包出来的体积比较小。（@jwenjian 投稿）"
+        },
+        {
+            "url": "https://riccardoscalco.it/textures/",
+            "name": "Textures.js",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062901.jpg",
+            "description": "一个 JS 纹理库，基于 D3.js。"
+        },
+        {
+            "url": "https://github.com/octalmage/robotjs",
+            "name": "robotjs",
+            "description": "一个 Node.js 的桌面自动化脚本库，支持 Mac、Windows 和 Linux。"
+        },
+        {
+            "url": "https://github.com/foambubble/foam",
+            "name": "foam",
+            "description": "VS Code 的一个插件，使得 VS Code 可以用于个人的笔记和知识管理，支持 Wiki 语法和可视化图形。"
+        },
+        {
+            "url": "http://shoesrb.com/",
+            "name": "Shoes",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070101.jpg",
+            "description": "一个开发桌面小程序的跨平台框架，特点是语法简单，容易上手。"
+        },
+        {
+            "url": "https://linear.app/",
+            "name": "Linear",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070106.jpg",
+            "description": "一个在线的项目管理软件，用于 Bug 管理，比 Jira 用法简单。"
         }
     ],
     [
@@ -5808,228 +6017,6 @@
             "url": "http://etherpad.org/",
             "name": "Etherpad",
             "description": "老牌的多人实时编辑协同工具。"
-        }
-    ],
-    [
-        {
-            "url": "https://bellard.org/tcc/",
-            "name": "Tiny C 编译器",
-            "description": "传奇程序员 Fabrice Bellard 写的一个 C 编译器，只有 100KB 大小，编译时间只有 GCC 的几分之一。"
-        },
-        {
-            "url": "http://www.easybui.com/",
-            "name": "BUI",
-            "description": "一个国产的 UI 交互框架, 用于快速定制开发 WebApp、微信公众号、小程序的 webview 适配，以及混合移动应用等。（@yangyongzhen 投稿）"
-        },
-        {
-            "url": "https://github.com/tholman/elevator.js",
-            "name": "elevator.js",
-            "description": "一个使得\"回到顶部\"的网页滚动，具有电梯效果的 JS 库。"
-        },
-        {
-            "url": "https://github.com/renzhezhilu/webp2jpg-online",
-            "name": "webp2jpg",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062810.jpg",
-            "description": "一个纯前端的在线图片格式转换工具，可以快速将图片转为另一种格式，并且提供多个参数可以调节。（@renzhezhilu 投稿）"
-        },
-        {
-            "url": "https://github.com/tauri-apps/tauri",
-            "name": "tauri",
-            "description": "一个类似 Electron 的跨平台桌面应用开发框架，但是基于各平台自带的 WebView，所以应用打包出来的体积比较小。（@jwenjian 投稿）"
-        },
-        {
-            "url": "https://riccardoscalco.it/textures/",
-            "name": "Textures.js",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062901.jpg",
-            "description": "一个 JS 纹理库，基于 D3.js。"
-        },
-        {
-            "url": "https://github.com/octalmage/robotjs",
-            "name": "robotjs",
-            "description": "一个 Node.js 的桌面自动化脚本库，支持 Mac、Windows 和 Linux。"
-        },
-        {
-            "url": "https://github.com/foambubble/foam",
-            "name": "foam",
-            "description": "VS Code 的一个插件，使得 VS Code 可以用于个人的笔记和知识管理，支持 Wiki 语法和可视化图形。"
-        },
-        {
-            "url": "http://shoesrb.com/",
-            "name": "Shoes",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070101.jpg",
-            "description": "一个开发桌面小程序的跨平台框架，特点是语法简单，容易上手。"
-        },
-        {
-            "url": "https://linear.app/",
-            "name": "Linear",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070106.jpg",
-            "description": "一个在线的项目管理软件，用于 Bug 管理，比 Jira 用法简单。"
-        }
-    ],
-    [
-        {
-            "url": "https://github.com/B-Software/Ward",
-            "name": "ward",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070113.jpg",
-            "description": "一个简单的服务器监控的仪表盘，基于 Java。"
-        },
-        {
-            "url": "https://github.com/novalagung/httpsproxy2http",
-            "name": "httpsproxy2http",
-            "description": "一个开源的反向代理服务器，以 Docker 镜像形式发布，提供 HTTP 到 HTTPS 的反向代理服务，可以把不加密的 HTTP 网站代理成加密的 HTTPS 网站。"
-        },
-        {
-            "url": "https://github.com/Devs-Garden/jsonbase",
-            "name": "jsonbase",
-            "description": "一个 JavaScript 数据库，后端数据都存成 JSON 格式文件，可以用来学习怎么自己实现关系型数据库。"
-        },
-        {
-            "url": "https://github.com/alfiopuglisi/guietta",
-            "name": "guietta",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070302.jpg",
-            "description": "一个 Python 工具，用来生成简单的图形界面。"
-        },
-        {
-            "url": "https://getuikit.com/",
-            "name": "UIkit",
-            "description": "一个前端 Web 组件库，不依赖任何框架，组件类型多、功能强。"
-        },
-        {
-            "url": "https://www.zettlr.com/",
-            "name": "Zettlr",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070401.jpg",
-            "description": "一个桌面 Markdown 编辑器，界面美观。"
-        },
-        {
-            "url": "https://reabble.cn/",
-            "name": "Reabble",
-            "description": "Kindle 等电子书阅读器的 RSS 推送服务，绑定  Inoreader 帐号。（@weijarz 投稿）"
-        },
-        {
-            "url": "https://github.com/midwayjs/midway",
-            "name": "Midway Serverless",
-            "description": "阿里发布的 Node.js 的 Serverless 框架，帮助 Node.js 开发人员迁移到云端  Serverless 平台。（@czy88840616 投稿）"
-        },
-        {
-            "url": "https://github.com/augmentable-dev/gitqlite",
-            "name": "gitqlite",
-            "description": "使用 SQL 语法查询 Git 仓库的工具，比如SELECT * FROM commits。"
-        },
-        {
-            "url": "https://github.com/honkit/honkit",
-            "name": "honkit",
-            "description": "GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本。"
-        }
-    ],
-    [
-        {
-            "url": "https://gridjs.io/",
-            "name": "Grid.js",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020060504.jpg",
-            "description": "一个网页表格库，可以用作各种前端框架的插件。"
-        },
-        {
-            "url": "https://myvoiceyourface.com/",
-            "name": "换脸视频生成服务",
-            "description": "一个在线服务，用户可以上传一张照片和一段视频，网站会将照片里的人脸，替换视频里面的人脸。"
-        },
-        {
-            "url": "https://github.com/sickcodes/Docker-OSX",
-            "name": "Docker-OSX",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020060507.jpg",
-            "description": "一个包含 MacOS 系统的 Docker 镜像，可以运行在 Linux 系统。也就是说，你能在 Linux 上运行 Mac 系统了。"
-        },
-        {
-            "url": "https://github.com/postalsys/pending-dns",
-            "name": "pending-dns",
-            "description": "一个 Node.js 写的 DNS 服务器，可以通过 API 修改设置。"
-        },
-        {
-            "url": "https://webtorrent.io/",
-            "name": "WebTorrent",
-            "description": "一个在浏览器进行 BT 下载的 JS 库，可以网页 BT 下载，也有桌面客户端。"
-        },
-        {
-            "url": "https://github.com/LingDong-/shan-shui-inf",
-            "name": "shan-shui-inf",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020061002.jpg",
-            "description": "一个自动生成中国山水画的 JS 实现。"
-        },
-        {
-            "url": "https://github.com/ClearStudio/network-plus",
-            "name": "network-plus",
-            "description": "一款浏览器插件，可以修改浏览器发出的网络请求，相当于简易版的 Postman。（@tangkaichuan 投稿）"
-        },
-        {
-            "url": "https://hovancik.net/stretchly/downloads/",
-            "name": "stretchly",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020061107.jpg",
-            "description": "一个开源桌面软件，隔一段时间（默认25分钟）就跳出一个提示，提醒你离开电脑运动一下。（@ketra21 投稿）"
-        },
-        {
-            "url": "https://zhuanlan.zhihu.com/p/144169144",
-            "name": "chil",
-            "description": "一个远程调试网页的工具，只要在网页里面加载这个库，就可以远程打开 Chrome 开发者工具，主要用于调试手机端网页。（@surunzi 投稿）"
-        },
-        {
-            "url": "https://github.com/wilsonzlin/hyperbuild",
-            "name": "hyperbuild",
-            "description": "HTML 代码的最小化工具，可以精简网页源码的体积。Rust 语言写的，有 Node.js、Python、Java、Ruby 的移植。"
-        }
-    ],
-    [
-        {
-            "url": "https://github.com/B-Software/Ward",
-            "name": "ward",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070113.jpg",
-            "description": "一个简单的服务器监控的仪表盘，基于 Java。"
-        },
-        {
-            "url": "https://github.com/novalagung/httpsproxy2http",
-            "name": "httpsproxy2http",
-            "description": "一个开源的反向代理服务器，以 Docker 镜像形式发布，提供 HTTP 到 HTTPS 的反向代理服务，可以把不加密的 HTTP 网站代理成加密的 HTTPS 网站。"
-        },
-        {
-            "url": "https://github.com/Devs-Garden/jsonbase",
-            "name": "jsonbase",
-            "description": "一个 JavaScript 数据库，后端数据都存成 JSON 格式文件，可以用来学习怎么自己实现关系型数据库。"
-        },
-        {
-            "url": "https://github.com/alfiopuglisi/guietta",
-            "name": "guietta",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070302.jpg",
-            "description": "一个 Python 工具，用来生成简单的图形界面。"
-        },
-        {
-            "url": "https://getuikit.com/",
-            "name": "UIkit",
-            "description": "一个前端 Web 组件库，不依赖任何框架，组件类型多、功能强。"
-        },
-        {
-            "url": "https://www.zettlr.com/",
-            "name": "Zettlr",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070401.jpg",
-            "description": "一个桌面 Markdown 编辑器，界面美观。"
-        },
-        {
-            "url": "https://reabble.cn/",
-            "name": "Reabble",
-            "description": "Kindle 等电子书阅读器的 RSS 推送服务，绑定  Inoreader 帐号。（@weijarz 投稿）"
-        },
-        {
-            "url": "https://github.com/midwayjs/midway",
-            "name": "Midway Serverless",
-            "description": "阿里发布的 Node.js 的 Serverless 框架，帮助 Node.js 开发人员迁移到云端  Serverless 平台。（@czy88840616 投稿）"
-        },
-        {
-            "url": "https://github.com/augmentable-dev/gitqlite",
-            "name": "gitqlite",
-            "description": "使用 SQL 语法查询 Git 仓库的工具，比如SELECT * FROM commits。"
-        },
-        {
-            "url": "https://github.com/honkit/honkit",
-            "name": "honkit",
-            "description": "GitBook 官方不再维护开源版本后，其他人分叉继续开发的版本。"
         }
     ]
 ]

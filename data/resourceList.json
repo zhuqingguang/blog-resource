@@ -1,6 +1,161 @@
 [
     [
         {
+            "url": "https://datavizcatalogue.com/ZH/",
+            "name": "数据可视化图表目录",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072301.jpg",
+            "description": "这个网站收集各种数据可视化的图表类型，简要讲解每种类型的用途和特点，而且有中文版。"
+        },
+        {
+            "url": "https://hub.gradio.app/",
+            "name": "Gradio",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072401.jpg",
+            "description": "该网站提供一系列可以在线使用的 AI 工具，比如识别物体、识别手写数字、老照片着色、绘画生成等等。"
+        },
+        {
+            "url": "https://github.com/Matsemann/impossible-objects",
+            "name": "impossible-objects",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072707.jpg",
+            "description": "这个仓库提供 3D 打印源码，可以打印一些不可思议的物体，在镜子里面呈现另一个形状。"
+        },
+        {
+            "url": "http://stinaflodstrom.com/projects/osm/osm.html",
+            "name": "OSM City",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020072804.jpg",
+            "description": ""
+        }
+    ],
+    [
+        {
+            "url": "https://tourofrust.com/00_zh-cn.html",
+            "name": "Rust 语言之旅",
+            "description": "Rust 语言的中文版在线教程，通过可以运行的小例子介绍语法，从 Hello World 开始讲起。"
+        },
+        {
+            "url": "https://www.insecam.org/",
+            "name": "网络实时摄像头目录",
+            "description": "这个项目收集世界各地的网络实时摄像头，可以查看实时影像。目前，收集的美国摄像头有3500个，中国摄像头有32个。"
+        },
+        {
+            "url": "https://www.flickr.com/photos/kevinmgill/albums/72157709069900506",
+            "name": "木星相册",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071701.jpg",
+            "description": "一个天文爱好者收集的木星照片。"
+        },
+        {
+            "url": "https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/",
+            "name": "麻省理工学院的统计学课件",
+            "description": "麻省理工学院本科生统计学课程的 PPT 课件。"
+        },
+        {
+            "url": "https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/",
+            "name": "没有博士学位者的 TensorFlow 和深度学习教程",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020071705.jpg",
+            "description": "谷歌发布的英文教程，没有高深的数学，向初学者介绍 TensorFlow 和深度学习。"
+        }
+    ],
+    [
+        {
+            "url": "https://github.audio/",
+            "name": "Project Audio for GitHub",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070504.jpg",
+            "description": "一个将 GitHub 事件（提交、PR、issue）转成声音的网站，让你可以听到 GitHub 的动态。"
+        },
+        {
+            "url": "https://www.onelook.com/thesaurus/",
+            "name": "OneLook Thesaurus",
+            "description": "英语的同义词词典，可以查询同义词，也可以根据描述返回对应的词（比如 large bird 对应哪些词），加载速度很快。"
+        },
+        {
+            "url": "https://crdt.tech/",
+            "name": "CRDT.tech",
+            "description": "CRDT 是一种数据结构，用于分布式网络的数据同步，最典型的例子就是多人同时编辑文档。该网站收集了 CRDT 的相关资料。"
+        },
+        {
+            "url": "https://progressiveapp.store/home",
+            "name": "Progressive App Store",
+            "description": "一个渐进式 App 的在线商店，收集各种 Progessive App，是网友搭建的。"
+        },
+        {
+            "url": "https://www.webdesignmuseum.org/",
+            "name": "网页设计博物馆",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070503.jpg",
+            "description": "该网站收集了1600多个经过精心挑选和分类的网页，展示了1991年至2006年之间的网站设计趋势。"
+        },
+        {
+            "url": "https://window-swap.com/",
+            "name": "窗口交换",
+            "description": "该网站让世界各地的人上传他们窗外的镜像，一段5到10分钟的视频。其他用户就可以在网站上随机看到别人的窗外。"
+        }
+    ],
+    [
+        {
+            "url": "https://docs.microsoft.com/en-us/learn/tv/",
+            "name": "微软学习 TV",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062406.jpg",
+            "description": "微软官方的学习视频中心，有各种教程。"
+        },
+        {
+            "url": "https://awwrated.com/en/netflix",
+            "name": "aww rated",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062802.jpg",
+            "description": "这是一个Netflix 评价网站，通过抓取 IMDb、metacritic、烂番茄、豆瓣等评分网站的数据，列出 Netflix 各种节目的评分。"
+        },
+        {
+            "url": "https://www.digitalocean.com/community/books/how-to-code-in-go-ebook",
+            "name": "Go 语言编程",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070116.jpg",
+            "description": "英文的免费电子书，DigitalOcean 发布的。"
+        },
+        {
+            "url": "https://justjavascript.com/",
+            "name": "Just JavaScript 课程",
+            "description": "著名程序员 Dan Abramov 正在撰写的 JavaScript 教程，他还没有写完。只要在上面网址报名，每写好一部分就会通过邮件发给你。（@hacker0limbo 投稿）"
+        },
+        {
+            "url": "https://nashaofu.github.io/webrtc-demo/",
+            "name": "webRTC 执行流程演示",
+            "description": "这个网页演示和讲解，如何在无后端的情况下，通过 webRTC 建立双方的实时视频通话。（@nashaofu 投稿）"
+        },
+        {
+            "url": "http://thesecretlivesofdata.com/raft/",
+            "name": "Raft 共识的动画讲解",
+            "description": "通过一步步的动画，讲解 Raft 协议如何保证分布式集群的一致性，以及选举 leader 的过程。（@wzxJayce 投稿）"
+        }
+    ],
+    [
+        {
+            "url": "https://mowned.com/",
+            "name": "Mowned",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062015.jpg",
+            "description": "一个手机数据库，可以生成免费的个人页面，让你展示自己用过的手机。"
+        },
+        {
+            "url": "http://11foot8.com/",
+            "name": "11 Foot 8",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062104.jpg",
+            "description": "有人实在看不下去了，就在桥边装了两个摄像头，把拍到的所有事故视频，做成一个网站，名字就叫\"11 Foot 8\"。"
+        },
+        {
+            "url": "https://www.tutorialist.io/",
+            "name": "Youtube 免费软件开发教程",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062206.jpg",
+            "description": "该网站收集 Youtube 上面各种免费的软件开发视频教程。"
+        },
+        {
+            "url": "https://s-matyukevich.github.io/raspberry-pi-os/",
+            "name": "使用 Raspberry Pi 学习操作系统开发",
+            "description": "这是一个免费英文教程，教大家怎么用树莓派，一步步开发一个简单的操作系统内核，每一步都有实例代码。"
+        },
+        {
+            "url": "https://generativeartistry.com/tutorials/",
+            "name": "JavaScript 生成艺术图形教程",
+            "description": "这个教程介绍 JavaScript 如何生成8种艺术图形。",
+            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062405.jpg"
+        }
+    ],
+    [
+        {
             "url": "https://hnarayanan.github.io/springer-books/#Computer%20Science",
             "name": "施普林格的免费书籍",
             "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020061518.jpg",
@@ -3465,137 +3620,6 @@
             "url": "https://tutswiki.com/github-alternatives/",
             "name": "GitHub 替代品",
             "description": "微软收购了 GitHub，导致一部分开发者怀疑这个平台的独立性，从而迁移到其他平台。这里列出了十几个 GitHub 的替代品，以及各自的优缺点。"
-        }
-    ],
-    [
-        {
-            "url": "https://mowned.com/",
-            "name": "Mowned",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062015.jpg",
-            "description": "一个手机数据库，可以生成免费的个人页面，让你展示自己用过的手机。"
-        },
-        {
-            "url": "http://11foot8.com/",
-            "name": "11 Foot 8",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062104.jpg",
-            "description": "有人实在看不下去了，就在桥边装了两个摄像头，把拍到的所有事故视频，做成一个网站，名字就叫\"11 Foot 8\"。"
-        },
-        {
-            "url": "https://www.tutorialist.io/",
-            "name": "Youtube 免费软件开发教程",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062206.jpg",
-            "description": "该网站收集 Youtube 上面各种免费的软件开发视频教程。"
-        },
-        {
-            "url": "https://s-matyukevich.github.io/raspberry-pi-os/",
-            "name": "使用 Raspberry Pi 学习操作系统开发",
-            "description": "这是一个免费英文教程，教大家怎么用树莓派，一步步开发一个简单的操作系统内核，每一步都有实例代码。"
-        },
-        {
-            "url": "https://generativeartistry.com/tutorials/",
-            "name": "JavaScript 生成艺术图形教程",
-            "description": "这个教程介绍 JavaScript 如何生成8种艺术图形。",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062405.jpg"
-        }
-    ],
-    [
-        {
-            "url": "https://docs.microsoft.com/en-us/learn/tv/",
-            "name": "微软学习 TV",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062406.jpg",
-            "description": "微软官方的学习视频中心，有各种教程。"
-        },
-        {
-            "url": "https://awwrated.com/en/netflix",
-            "name": "aww rated",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062802.jpg",
-            "description": "这是一个Netflix 评价网站，通过抓取 IMDb、metacritic、烂番茄、豆瓣等评分网站的数据，列出 Netflix 各种节目的评分。"
-        },
-        {
-            "url": "https://www.digitalocean.com/community/books/how-to-code-in-go-ebook",
-            "name": "Go 语言编程",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070116.jpg",
-            "description": "英文的免费电子书，DigitalOcean 发布的。"
-        },
-        {
-            "url": "https://justjavascript.com/",
-            "name": "Just JavaScript 课程",
-            "description": "著名程序员 Dan Abramov 正在撰写的 JavaScript 教程，他还没有写完。只要在上面网址报名，每写好一部分就会通过邮件发给你。（@hacker0limbo 投稿）"
-        },
-        {
-            "url": "https://nashaofu.github.io/webrtc-demo/",
-            "name": "webRTC 执行流程演示",
-            "description": "这个网页演示和讲解，如何在无后端的情况下，通过 webRTC 建立双方的实时视频通话。（@nashaofu 投稿）"
-        },
-        {
-            "url": "http://thesecretlivesofdata.com/raft/",
-            "name": "Raft 共识的动画讲解",
-            "description": "通过一步步的动画，讲解 Raft 协议如何保证分布式集群的一致性，以及选举 leader 的过程。（@wzxJayce 投稿）"
-        }
-    ],
-    [
-        {
-            "url": "https://zenodo.org/record/3707008",
-            "name": "JavaScript 的前20年",
-            "description": "一本免费的英文电子书，回顾和介绍 JavaScript 是怎么发展起来的，从诞生直到 ES2015 标准的通过。"
-        },
-        {
-            "url": "http://www.avabodh.com/cin/cin.html",
-            "name": "C 语言内部原理",
-            "description": "一本英文的小教材，介绍 C 语言如何转换成汇编语言，从汇编的角度深入理解 C 语言的语法规则。"
-        },
-        {
-            "url": "https://davidadrian.cc/top-courses-data-science/",
-            "name": "数据科学在线课程",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020060701.jpg",
-            "description": "数据科学在线课程那么多，哪些课应该优先考虑？这篇文章列了一个推荐名单。"
-        },
-        {
-            "url": "https://nodesign.dev/",
-            "name": "设计工具收集",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020060902.jpg",
-            "description": "该网站收集各种设计工具和设计资源，没有设计师的时候，可以使用它们。"
-        },
-        {
-            "url": "https://www.jetbrains.com/lp/php-25/",
-            "name": "PHP 大事记",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020061011.jpg",
-            "description": "今年是 PHP 语言诞生25周年，Jetbrains 公司制作了一个网页，列出这25年中 PHP 的各种大事，网页制作得非常精致。"
-        }
-    ],
-    [
-        {
-            "url": "https://docs.microsoft.com/en-us/learn/tv/",
-            "name": "微软学习 TV",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062406.jpg",
-            "description": "微软官方的学习视频中心，有各种教程。"
-        },
-        {
-            "url": "https://awwrated.com/en/netflix",
-            "name": "aww rated",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202006/bg2020062802.jpg",
-            "description": "这是一个Netflix 评价网站，通过抓取 IMDb、metacritic、烂番茄、豆瓣等评分网站的数据，列出 Netflix 各种节目的评分。"
-        },
-        {
-            "url": "https://www.digitalocean.com/community/books/how-to-code-in-go-ebook",
-            "name": "Go 语言编程",
-            "imgSrc": "https://www.wangbase.com/blogimg/asset/202007/bg2020070116.jpg",
-            "description": "英文的免费电子书，DigitalOcean 发布的。"
-        },
-        {
-            "url": "https://justjavascript.com/",
-            "name": "Just JavaScript 课程",
-            "description": "著名程序员 Dan Abramov 正在撰写的 JavaScript 教程，他还没有写完。只要在上面网址报名，每写好一部分就会通过邮件发给你。（@hacker0limbo 投稿）"
-        },
-        {
-            "url": "https://nashaofu.github.io/webrtc-demo/",
-            "name": "webRTC 执行流程演示",
-            "description": "这个网页演示和讲解，如何在无后端的情况下，通过 webRTC 建立双方的实时视频通话。（@nashaofu 投稿）"
-        },
-        {
-            "url": "http://thesecretlivesofdata.com/raft/",
-            "name": "Raft 共识的动画讲解",
-            "description": "通过一步步的动画，讲解 Raft 协议如何保证分布式集群的一致性，以及选举 leader 的过程。（@wzxJayce 投稿）"
         }
     ]
 ]
